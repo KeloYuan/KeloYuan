@@ -12,20 +12,23 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```typescript
-const sloane = {
-  location: "China 🇨🇳",
-  role: "Independent Developer & Builder",
-  focus: ["AI Tools", "Reading Systems", "Cross-Platform Apps"],
-  languages: ["Flutter", "Dart", "TypeScript", "Swift", "Rust", "Java"],
-  philosophy: "Make software that feels calm, useful, and a little bit beautiful.",
-  currentProjects: [
-    "Origo Reader — Cross-platform ebook reader",
-    "Niki AI — AI-powered note intelligence",
-    "xxCode — Native HarmonyOS code editor"
-  ]
-};
-```
+<table>
+  <tr>
+    <td>
+      <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="130" />
+    </td>
+    <td>
+      <b>🔭 Independent Developer & Builder</b><br/>
+      <b>🌱 Currently building:</b> Reading tools, AI apps & cross-platform products<br/>
+      <b>💬 Focus:</b> AI Tools · Reading Systems · Product Design<br/>
+      <b>⚡ Languages:</b> Flutter · Dart · TypeScript · Swift · Rust · Java<br/>
+      <b>🎯 Philosophy:</b> <i>Make software that feels calm, useful, and a little bit beautiful.</i><br/><br/>
+      <a href="https://github.com/KeloYuan/Origo-Reader"><img src="https://img.shields.io/badge/📚_Origo_Reader-blueviolet?style=for-the-badge&logo=github" /></a>
+      <a href="https://github.com/KeloYuan/Niki-AI"><img src="https://img.shields.io/badge/🧠_Niki_AI-blue?style=for-the-badge&logo=github" /></a>
+      <a href="https://github.com/KeloYuan/xxCode"><img src="https://img.shields.io/badge/💻_xxCode-green?style=for-the-badge&logo=github" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
