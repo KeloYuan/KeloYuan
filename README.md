@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KeloYuan"><img src="https://komarev.com/ghpvc/?username=KeloYuan&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" /></a>
-  <a href="https://github.com/KeloYuan?tab=followers"><img src="https://img.shields.io/github/followers/KeloYuan?style=for-the-badge&color=9ece6a&label=FOLLOWERS" /></a>
-  <a href="https://github.com/KeloYuan?tab=stars"><img src="https://img.shields.io/github/stars/KeloYuan?style=for-the-badge&color=e0af68&label=STARS" /></a>
+  <a href="https://github.com/KeloYuan"><img src="https://komarev.com/ghpvc/?username=KeloYuan&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" /></a>
+  <a href="https://github.com/KeloYuan?tab=followers"><img src="https://img.shields.io/github/followers/KeloYuan?style=for-the-badge&color=9ece6a&label=FOLLOWERS" alt="GitHub followers" /></a>
+  <a href="https://github.com/KeloYuan?tab=stars"><img src="https://img.shields.io/github/stars/KeloYuan?style=for-the-badge&color=e0af68&label=STARS" alt="GitHub stars" /></a>
 </p>
 
 ---
